@@ -23,7 +23,7 @@
     contain:layout size;
     text-align:left;
     touch-action:none;
-    border-radius: 20px;
+    border-radius: 20px
 }
 .wb-body,.wb-header{
     position:absolute;
