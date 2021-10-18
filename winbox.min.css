@@ -22,7 +22,8 @@
     will-change:transform,width,height;
     contain:layout size;
     text-align:left;
-    touch-action:none
+    touch-action:none;
+    border-radius:20px
 }
 .wb-body,.wb-header{
     position:absolute;
