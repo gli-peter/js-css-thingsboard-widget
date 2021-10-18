@@ -53,9 +53,10 @@
     border-radius: 0 0 20px 20px;
 }
 .wb-title{
-    font-family:Arial,sans-serif;
-    font-size:14px;
-    padding-left:10px;
+    font-size:1.3em;
+    padding-left:3%;
+    padding-top:0.2%;
+    font-weight:400;
     cursor:move;
     height:35px;
     line-height:35px;
