@@ -1404,6 +1404,47 @@ body.swal2-toast-shown .swal2-container.swal2-bottom-end, body.swal2-toast-shown
   left: auto;
 }
 
+#body_cont {
+    font-family: 'Prompt';
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#onTime_cont {
+    margin: 5%;
+}
+
+#onTime_txt {
+    text-align: center;
+}
+
+#onTime_select {
+    font-family: 'Prompt';
+}
+
+#separator {
+
+}
+
+#offTime_cont {
+    margin: 5%;
+}
+
+#offTime_txt {
+    text-align: center;
+}
+
+#offTime_select {
+    font-family: 'Prompt';
+}
+
+option {
+    font-family: 'Prompt'
+}
+
 /* thai */
 @font-face {
   font-family: 'Prompt';
