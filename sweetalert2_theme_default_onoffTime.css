@@ -343,6 +343,7 @@
   cursor: pointer;
 }
 .swal2-styled.swal2-confirm {
+  font-family: 'Prompt';
   border: 0;
   border-radius: 0.25em;
   background: initial;
@@ -1406,7 +1407,6 @@ body.swal2-toast-shown .swal2-container.swal2-bottom-end, body.swal2-toast-shown
 
 #body_cont {
     font-family: 'Prompt';
-    height: 100vh;
     width: 100%;
     display: flex;
     justify-content: center;
