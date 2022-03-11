@@ -466,6 +466,7 @@
   text-align: center;
   word-wrap: break-word;
   word-break: break-word;
+  font-family: 'Prompt';
 }
 
 .swal2-input,
