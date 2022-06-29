@@ -556,6 +556,7 @@
 }
 
 .swal2-select {
+  font-family: 'Prompt';
   min-width: 50%;
   max-width: 100%;
   padding: 0.375em 0.625em;
