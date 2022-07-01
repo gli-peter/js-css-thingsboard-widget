@@ -1440,6 +1440,10 @@ body.swal2-toast-shown .swal2-container.swal2-bottom-end, body.swal2-toast-shown
     text-align: center;
 }
 
+#lux_select {
+    font-family: 'Prompt';
+}
+
 #offTime_select {
     font-family: 'Prompt';
 }
