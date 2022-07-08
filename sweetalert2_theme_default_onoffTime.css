@@ -1454,19 +1454,19 @@ body.swal2-toast-shown .swal2-container.swal2-bottom-end, body.swal2-toast-shown
     align-items: center;
 }
 
-#time_cont {
+#time_sel_cont {
   background-color: darkseagreen;
   border-radius: 20px;
   width: 20%;
 }
 
-#lux_cont {
+#lux_sel_cont {
   background-color: darkseagreen;
   border-radius: 20px;
   width: 20%;
 }
 
-#timelux_cont {
+#timelux_sel_cont {
   background-color: darkseagreen;
   border-radius: 20px;
   width: 30%;
