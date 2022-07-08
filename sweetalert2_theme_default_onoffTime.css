@@ -1448,6 +1448,31 @@ body.swal2-toast-shown .swal2-container.swal2-bottom-end, body.swal2-toast-shown
     font-family: 'Prompt';
 }
 
+#mode_cont {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#time_cont {
+  background-color: darkseagreen;
+  border-radius: 20px;
+  width: 20%;
+}
+
+#lux_cont {
+  background-color: darkseagreen;
+  border-radius: 20px;
+  width: 20%;
+}
+
+#timelux_cont {
+  background-color: darkseagreen;
+  border-radius: 20px;
+  width: 30%;
+  white-space: nowrap;
+}
+
 option {
     font-family: 'Prompt'
 }
