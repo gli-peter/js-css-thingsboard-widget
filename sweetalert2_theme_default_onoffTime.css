@@ -1408,25 +1408,25 @@ body.swal2-toast-shown .swal2-container.swal2-bottom-end, body.swal2-toast-shown
   left: auto;
 }
 
-#switch_cont {
+#switch_sel_cont {
   background-color: #305680;
   color: white;
   border-radius: 20px;
   width: 30%;
 }
 
-#switch_cont:hover {
+#switch_sel_cont:hover {
   transform: scale(1.2);
 }
 
-#bright_cont {
+#bright_sel_cont {
   background-color: #305680;
   color: white;
   border-radius: 20px;
   width: 30%;
 }
 
-#bright_cont:hover {
+#bright_sel_cont:hover {
   transform: scale(1.2);
 }
 
