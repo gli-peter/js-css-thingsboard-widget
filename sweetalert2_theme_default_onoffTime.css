@@ -1482,22 +1482,34 @@ body.swal2-toast-shown .swal2-container.swal2-bottom-end, body.swal2-toast-shown
 }
 
 #time_sel_cont {
-  background-color: darkseagreen;
+  background-color: #86c386;
   border-radius: 20px;
   width: 20%;
 }
 
 #lux_sel_cont {
-  background-color: darkseagreen;
+  background-color: #86c386;
   border-radius: 20px;
   width: 20%;
 }
 
 #timelux_sel_cont {
-  background-color: darkseagreen;
+  background-color: #86c386;
   border-radius: 20px;
   width: 30%;
   white-space: nowrap;
+}
+
+#time_sel_cont:hover {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1));
+}
+
+#lux_sel_cont:hover {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1));
+}
+
+#timelux_sel_cont:hover {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1));
 }
 
 option {
