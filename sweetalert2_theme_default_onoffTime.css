@@ -1409,25 +1409,29 @@ body.swal2-toast-shown .swal2-container.swal2-bottom-end, body.swal2-toast-shown
 }
 
 #switch_sel_cont {
-  background-color: #305680;
-  color: white;
-  border-radius: 20px;
-  width: 30%;
+      background-color: #305680;
+    color: white;
+    border-radius: 20px;
+    width: 30%;
+    transition: 0.5s;
+    white-space: nowrap;
 }
 
 #switch_sel_cont:hover {
-  transform: scale(1.2);
+  background-image: linear-gradient(rgb(91 121 155),rgb(91 121 155));
 }
 
 #bright_sel_cont {
-  background-color: #305680;
-  color: white;
-  border-radius: 20px;
-  width: 30%;
+      background-color: #305680;
+    color: white;
+    border-radius: 20px;
+    width: 30%;
+    transition: 0.5s;
+    white-space: nowrap;
 }
 
 #bright_sel_cont:hover {
-  transform: scale(1.2);
+  background-image: linear-gradient(rgb(91 121 155),rgb(91 121 155));
 }
 
 #body_cont {
